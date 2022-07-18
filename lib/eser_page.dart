@@ -26,6 +26,7 @@ class _EserPageState extends State<EserPage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      appBar: AppBar(),
       body: SafeArea(
         child: Padding(
           padding: ProjePadding.paddingGeneral,
@@ -125,14 +126,12 @@ class Onboard {
 final List<Onboard> demo_data = [
   Onboard(
       image: LanguageItems.cingeneImg, title: LanguageItems.cingeneText, description: LanguageItems.cingeneDescription),
-  Onboard(
-      image: LanguageItems.inadikImg, title: LanguageItems.inadikText, description: LanguageItems.inadikeDescription),
+  Onboard(image: LanguageItems.maskeImg, title: LanguageItems.maskeText, description: LanguageItems.maskeDescription),
   Onboard(
       image: LanguageItems.hancerImg, title: LanguageItems.hancerText, description: LanguageItems.hancerDescription),
   Onboard(
       image: LanguageItems.cingeneImg, title: LanguageItems.cingeneText, description: LanguageItems.cingeneDescription),
-  Onboard(
-      image: LanguageItems.inadikImg, title: LanguageItems.inadikText, description: LanguageItems.inadikeDescription),
+  Onboard(image: LanguageItems.maskeImg, title: LanguageItems.maskeText, description: LanguageItems.maskeDescription),
   Onboard(
       image: LanguageItems.hancerImg, title: LanguageItems.hancerText, description: LanguageItems.hancerDescription),
 ];
@@ -154,7 +153,7 @@ class OnboardContent extends StatelessWidget {
         const Spacer(),
         Image.asset(
           image,
-          height: 250,
+          height: 300,
         ),
         const Spacer(),
         Text(

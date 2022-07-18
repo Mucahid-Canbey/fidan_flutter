@@ -1,16 +1,43 @@
-# fidan_flutter
+![Image](assets/image/1.png)
 
-A new Flutter project.
+<center>
+<img src= assets/image/2.png
+alt="Logo Kuş" width="400" /></a>
+</center>
 
-## Getting Started
+## Flutter Giriş Ekranı 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Proje içeriği; Flutter ile yapılmış Giriş tasarımı içermektedir.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Installation
+
+Öncelikle projeyi clonelayın.
+
+```
+https://github.com/Mucahid-Canbey/flutter_giri-_ekran-.git
+```
+
+### Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+```
+cd flutter_giris_ekrani
+code .
+```
+### Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+### License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
+
+<center>
+<img src= assets/image/proje.gif
+alt="Proje İmg Erorr" width="200" /></a>
+</center>

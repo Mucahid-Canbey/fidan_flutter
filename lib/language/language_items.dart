@@ -8,10 +8,10 @@ class LanguageItems {
 
   // İnadık Vazosu
 
-  static const inadikText = 'İnandık Vazosu';
-  static const inadikeDescription =
-      'MÖ 17. yüzyıl. Hitit Devleti’nin Hanhana (İnandık Köyü/Çankırı) isimli yerleşiminde bulundu. Hitit rölyefli vazolarından en sağlam ve temsili olanı.';
-  static const inadikImg = 'assets/image/v1.png';
+  static const maskeText = 'Tutankamon Maskesi';
+  static const maskeDescription =
+      'Mısır tarihinin Yeni Krallığı sırasında 18. hanedanlığın sonunda, kraliyet ailesinin sonuncu lideri olan ve MÖ 1332 – MÖ 1323 yılları arasında hüküm sürmüş Mısır firavunu.';
+  static const maskeImg = 'assets/image/v1.png';
 
   // Topkapı Hançeri
 
