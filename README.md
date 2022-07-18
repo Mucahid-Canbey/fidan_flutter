@@ -1,9 +1,6 @@
 ![Image](assets/image/1.png)
 
-<center>
-<img src= assets/image/proje.gif
-alt="Proje İmg Erorr" width="250" /></a>
-</center>
+
 
 <center>
 <img src= assets/image/2.png
@@ -42,3 +39,12 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
+<hr>
+
+
+<center>
+
+<img src= assets/image/proje.gif
+alt="Proje İmg Erorr" width="200" /></a>
+
+</center>
